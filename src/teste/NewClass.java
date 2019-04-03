@@ -20,5 +20,10 @@ public class NewClass {
  {
      //carai mano, to com fome!
  }
+ 
+ public void robustezDoGit()
+ {
+     // teste
+ }
     
 }
