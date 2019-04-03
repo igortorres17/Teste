@@ -15,5 +15,10 @@ public class NewClass {
  {
      System.out.println("COntribuiçãi bizarra");
  }
+ 
+ public void bizarro()
+ {
+     //carai mano, to com fome!
+ }
     
 }
