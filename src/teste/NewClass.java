@@ -11,4 +11,9 @@ package teste;
  */
 public class NewClass {
     
+ public void testeMetodo()
+ {
+     System.out.println("COntribuiçãi bizarra");
+ }
+    
 }
