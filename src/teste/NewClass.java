@@ -23,7 +23,7 @@ public class NewClass {
  
  public void robustezDoGit()
  {
-     // teste
+    //qualquer coisa nova
  }
  
  // adiçãi
